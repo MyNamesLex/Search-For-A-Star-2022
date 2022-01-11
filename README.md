@@ -6,4 +6,4 @@ I was given a starter project which was a very bare bones version of minesweeper
 
 ### Submission
 
-<a href="https://mynameslex.itch.io/dicesweeper"> Here </a> is this Itch.io page for the game: 
+<a href="https://mynameslex.itch.io/dicesweeper"> Here </a> is this Itch.io page for the game
