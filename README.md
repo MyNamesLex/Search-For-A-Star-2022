@@ -10,6 +10,8 @@ I was given a starter project which was a very bare bones version of minesweeper
 
 The results of this game jam and the game itself can be found <a href="https://itch.io/jam/games-programming-challenge-2022/rate/1344072">here</a> 
 
+I was notified that I did not win and was told I performed above average in both the C++ programming test and the game and missed out on being a finalist by a few points which is unfortunate but I had a fun time developing this game and with the entire experience.
+
 ### What I Learned
 
 I learned a lot from this game jam due to the detailed feedback from the Judge, the downside's to this game is that it is difficult to remember what each dice effect does. The judge then later states that icons to represent the effects would help. Although this is a good solution i believe the fault with the hard-to-learn aspect of the game lies with the dice effects and the effects themselves more then the explanation aspect. I think they should be simplified more and should be limited to one simple or short none-complicated sentence to explain what they do, along with an icon that displays what number it landed on and the popup that when the dice lands that displays what number it has landed on should also state what the effect did also.
