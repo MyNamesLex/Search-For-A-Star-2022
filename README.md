@@ -8,7 +8,7 @@ I was given a starter project which was a very bare bones version of minesweeper
 
 ### Results
 
-The results of this game jam and the game itself can be found <a href="https://itch.io/jam/games-programming-challenge-2022/rate/1344072">here</a> 
+The results of this game jam, the entirity of the feedback and the game itself can be found <a href="https://itch.io/jam/games-programming-challenge-2022/rate/1344072">here</a> 
 
 I was notified that I did not win and was told I performed above average in both the C++ programming test and the game and missed out on being a finalist by a few points which is unfortunate but I had a fun time developing this game and with the entire experience.
 
